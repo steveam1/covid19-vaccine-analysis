@@ -58,7 +58,7 @@ bar_total_deaths.png
 
 ## Included Files
 
-- `final_report_code.ipynb` – Contains all data cleaning, transformation, and visual analysis.
+- `Covid19-vacinie-analysis.ipynb` – Contains all data cleaning, transformation, and visual analysis.
 - `final_report.pdf` – A formal report detailing the analytical approach, findings, limitations, and recommendations.
 
 ## Data Source
